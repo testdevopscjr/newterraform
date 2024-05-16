@@ -1,0 +1,4 @@
+# resource "aws_key_pair" "newkey" {
+#   key_name   = "demo"
+#   public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC67q96w+m+XT9eIk+VlQTFc8jV//NrtfVvG6PpPLVZF47X5xezkVB3HaRw0Fto1XCykam3gzabRdQCgYldqu/iOV3fmbnr/S6Kg8Gj8LKfElvlnMdINL5R9xSInj9HCMMynLAUiNyIjlgFMRoSLRosZp5D7rp5qeT/XrzfSy+F6JfjdGDJvbqXamNm0Wzl79PvaMHvAi3SIqpYS66Jm9NGbvySY5GwqfzkK0wyZ3Zoz/mhQB00YGuaDujzIUABjsTS0OUY4weHBMZDqzDfoJMm8e/F3KjjpQa/RqrVQHvJzw0nw+nKAz9AOGI3ug117SE5RY8w4ArqcGmJS62AXjvojiGhLQJ20/6fn3Aq2cgNb4ZHShMaVH2srNpqnYnC0JtJySTALFfPIe2MGLsa+MaMTz/Zb69aqXI8UfIvq0v2JX46VgBhWhGVJcA/UzVkO2ScbY9xzVm2AWYCs+JhGPcgcvAnDeu7ygu5xr7SzRCH3RomncoPfbFTHt+z4ZP7Mcs= jaira@LAPTOP-2JNAUAAB"
+# }

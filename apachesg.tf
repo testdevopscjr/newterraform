@@ -41,7 +41,7 @@ resource "aws_instance" "apache-ec2" {
   ami           = "ami-05b46bc4327cf9d99"
   instance_type = "t2.micro"
   
-  subnet_id=aws_subnet.private_stage[0].id
+  subnet_id=aws_subnet.private_stage[1].id
   vpc_security_group_ids = [aws_security_group.apache.id]
 
 

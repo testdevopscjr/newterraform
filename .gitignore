@@ -36,3 +36,12 @@ terraform.rc
 *.terraform.lock.hcl
 
 *.sh
+.bash_history
+        .bash_logout
+        .bash_profile
+        .bashrc
+        .cshrc
+        .ssh/
+        .tcshrc
+        .viminfo
+        .wget-hsts
